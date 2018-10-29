@@ -1,5 +1,8 @@
 
 *.ipch
+
 *.opendb
+
 *.db
-assignment2/.vs/assignment2/v15/.suo
+
+*LEVENT*
